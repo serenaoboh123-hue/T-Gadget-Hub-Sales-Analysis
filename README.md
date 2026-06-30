@@ -44,7 +44,7 @@ T-Gadget-Hub-Sales-Analysis
 
 ## Dashboard Preview
 
-![T-Gadget Hub Dashboard](tgadget-dashboard.png)
+![T-Gadget Hub Dashboard](T-Gadget-Dashboard.png)
 
 ---
 
