@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes iPhone sales data for T-Gadget Hub using SQL, Excel, and Tableau. The interactive dashboard provides insights into sales performance, customer preferences, storage demand, payment methods, and revenue trends, helping identify key business opportunities and support data-driven decision-making.
+This project analyzes iPhone sales data for T-Gadget Hub using Python, Excel, and Tableau. The interactive dashboard provides insights into sales performance, customer preferences, storage demand, payment methods, and revenue trends, helping identify key business opportunities and support data-driven decision-making.
 
 ---
 
