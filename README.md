@@ -21,7 +21,7 @@ This project answers the following business questions:
 
 ## Tools Used
 
-- SQL
+- Python
 - Microsoft Excel
 - Tableau
 
